@@ -1,0 +1,31 @@
+# [BLOCKING MALICIOUS DOMAINS - GROUP 1 & 2]
+# Nhóm 1: Tên miền lừa đảo, giả mạo, nghi ngờ độc hại (.qpon, .cyou, .shop)
+127.0.0.1   justinepulvino.qpon
+127.0.0.1   pe.parcookgoofah.qpon
+127.0.0.1   cnemicsynthol.qpon
+127.0.0.1   lr.corrumpskeptic.cyou
+127.0.0.1   gavesamoan.cyou
+127.0.0.1   daftarfilles.shop
+127.0.0.1   xy.allodiapreburn.com
+127.0.0.1   chagnougroalry.net
+127.0.0.1   cupbearergrowllurch.com
+127.0.0.1   avalanchetremorunfilled.com
+127.0.0.1   caldory.com
+127.0.0.1   aqle3.com
+127.0.0.1   wayground.com
+127.0.0.1   fnl.wayground.com
+
+# Nhóm 2: Quảng cáo độc hại và công cụ theo dõi (Adware/Tracking)
+127.0.0.1   mp.4dex.io
+127.0.0.1   analytics-toolbar.falais.com
+127.0.0.1   authentication.falais.com
+127.0.0.1   qsearch-a.akamaihd.net
+127.0.0.1   o13855.ingest.sentry.io
+127.0.0.1   o187844.ingest.us.sentry.io
+127.0.0.1   o90235.ingest.sentry.io
+127.0.0.1   hb-vntsm-com.global.ssl.fastly.net
+127.0.0.1   hb.vntsm.io
+127.0.0.1   fafvertizing.crazygames.com
+127.0.0.1   mafvertizing.crazygames.com
+
+# [END OF BLOCKLIST]
