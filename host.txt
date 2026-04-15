@@ -43,5 +43,24 @@
 0.0.0.0    aefd.nelreports.net
 0.0.0.0    egde.nelreports.net
 0.0.0.0    sync.quantumdex.io
+# --- CÁC TÊN MIỀN MỚI BỔ SUNG (KHÔNG TRÙNG LẶP) ---
 
+# Nhóm 1: Tên miền nghi vấn độc hại & lạ
+0.0.0.0    lap123.com
+0.0.0.0    p2pb2b.com
+0.0.0.0    reset.moviking.com
+0.0.0.0    wd.2980.com
+
+# Nhóm 2: Theo dõi (Telemetry) & Phân tích dữ liệu
+0.0.0.0    statsigapi.net
+0.0.0.0    global.ketchcdn.com
+0.0.0.0    g.ezoic.net
+0.0.0.0    thongke.vui.vn
+
+# Nhóm 3: SDK Quảng cáo & Game rác
+0.0.0.0    html5.gamedistribution.com
+0.0.0.0    msgrt.gamedistribution.com
+0.0.0.0    tag.atom.gamedistribution.com
+0.0.0.0    pm.azerioncircle.com
+0.0.0.0    adsdk.microsoft.com
 # [END OF COMBINED BLOCKLIST]
