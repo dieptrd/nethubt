@@ -1,66 +1,81 @@
-# [COMBINED BLOCKLIST - GROUP 1 & 2]
-# Cập nhật dựa trên Log truy cập và danh sách trước đó
+# [COMBINED BLOCKLIST - UPDATED 2026]
+# Mục tiêu: Chặn quảng cáo độc hại, theo dõi, lừa đảo và VPN rủi ro.
 
-# --- Nhóm 1: Lừa đảo, giả mạo và Domain lạ (.qpon, .cyou, .shop) ---
-0.0.0.0    justinepulvino.qpon
-0.0.0.0    pe.parcookgoofah.qpon
+# --- NHÓM 1: LỪA ĐẢO, GIẢ MẠO & TÊN MIỀN LẠ (SCAM/PHISHING) ---
+0.0.0.0    789bet800.com
+0.0.0.0    aqle3.com
+0.0.0.0    avalanchetremorunfilled.com
+0.0.0.0    bankedimpinge.qpon
+0.0.0.0    caldory.com
+0.0.0.0    chagnougroalry.net
 0.0.0.0    cnemicsynthol.qpon
-0.0.0.0    lr.corrumpskeptic.cyou
-0.0.0.0    gavesamoan.cyou
+0.0.0.0    cupbearergrowllurch.com
 0.0.0.0    daftarfilles.shop
 0.0.0.0    dilutertharen.shop
-0.0.0.0    xy.allodiapreburn.com
-0.0.0.0    chagnougroalry.net
-0.0.0.0    cupbearergrowllurch.com
-0.0.0.0    avalanchetremorunfilled.com
-0.0.0.0    caldory.com
-0.0.0.0    aqle3.com
+0.0.0.0    gavesamoan.cyou
+0.0.0.0    herselfjocks.qpon
+0.0.0.0    justinepulvino.qpon
+0.0.0.0    lap123.com
+0.0.0.0    lr.corrumpskeptic.cyou
+0.0.0.0    p2pb2b.com
+0.0.0.0    pe.parcookgoofah.qpon
+0.0.0.0    play4.u5rq.com
+0.0.0.0    reset.moviking.com
+0.0.0.0    wayfarerorthodox.com
 0.0.0.0    wayground.com
 0.0.0.0    fnl.wayground.com
-0.0.0.0    wayfarerorthodox.com
-0.0.0.0    play4.u5rq.com
+0.0.0.0    wd.2980.com
+0.0.0.0    xy.allodiapreburn.com
 
-# --- Nhóm 2: Quảng cáo độc hại, Theo dõi và Telemetry ---
-0.0.0.0    mp.4dex.io
-0.0.0.0    analytics-toolbar.falais.com
-0.0.0.0    authentication.falais.com
+# --- NHÓM 2: QUẢNG CÁO ĐỘC HẠI & MẠNG LƯỚI TRACKING ---
+0.0.0.0    adsdk.microsoft.com
+0.0.0.0    bid.missena.io
+0.0.0.0    bid.sparteo.com
+0.0.0.0    eu.fastcmp.com
+0.0.0.0    fafvertizing.crazygames.com
+0.0.0.0    html5.gamedistribution.com
+0.0.0.0    mafvertizing.crazygames.com
+0.0.0.0    marketplace.anyclip.com
+0.0.0.0    msgrt.gamedistribution.com
+0.0.0.0    player.anyclip.com
+0.0.0.0    pm.azerioncircle.com
+0.0.0.0    prebid.anyclip.com
 0.0.0.0    qsearch-a.akamaihd.net
+0.0.0.0    srv.flashb.id
+0.0.0.0    static.fastcmp.com
+0.0.0.0    t.fastcmp.com
+0.0.0.0    tag.atom.gamedistribution.com
+0.0.0.0    tn.flashb.id
+
+# --- NHÓM 3: TELEMETRY, ANALYTICS & LOG INGESTION ---
+0.0.0.0    aefd.nelreports.net
+0.0.0.0    analytics.ahrefs.com
+0.0.0.0    analytics.ff.avast.com
+0.0.0.0    analytics01.cisco.netacad.com
+0.0.0.0    browser-intake-us5-datadoghq.com
+0.0.0.0    deff.nelreports.net
+0.0.0.0    egde.nelreports.net
+0.0.0.0    g.ezoic.net
+0.0.0.0    global.ketchcdn.com
+0.0.0.0    hb-vntsm-com.global.ssl.fastly.net
+0.0.0.0    hb.vntsm.io
+0.0.0.0    mp.4dex.io
 0.0.0.0    o13855.ingest.sentry.io
 0.0.0.0    o187844.ingest.us.sentry.io
 0.0.0.0    o90235.ingest.sentry.io
-0.0.0.0    hb-vntsm-com.global.ssl.fastly.net
-0.0.0.0    hb.vntsm.io
-0.0.0.0    fafvertizing.crazygames.com
-0.0.0.0    mafvertizing.crazygames.com
-0.0.0.0    analytics01.cisco.netacad.com
-0.0.0.0    browser-intake-us5-datadoghq.com
-0.0.0.0    analytics.ahrefs.com
 0.0.0.0    p13n.adobe.io
-0.0.0.0    v7event.stats.avast.com
-0.0.0.0    v7.stats.avast.com
-0.0.0.0    analytics.ff.avast.com
-0.0.0.0    deff.nelreports.net
-0.0.0.0    aefd.nelreports.net
-0.0.0.0    egde.nelreports.net
-0.0.0.0    sync.quantumdex.io
-# --- CÁC TÊN MIỀN MỚI BỔ SUNG (KHÔNG TRÙNG LẶP) ---
-
-# Nhóm 1: Tên miền nghi vấn độc hại & lạ
-0.0.0.0    lap123.com
-0.0.0.0    p2pb2b.com
-0.0.0.0    reset.moviking.com
-0.0.0.0    wd.2980.com
-
-# Nhóm 2: Theo dõi (Telemetry) & Phân tích dữ liệu
+0.0.0.0    stats.securebrowser.com
 0.0.0.0    statsigapi.net
-0.0.0.0    global.ketchcdn.com
-0.0.0.0    g.ezoic.net
+0.0.0.0    sync.quantumdex.io
 0.0.0.0    thongke.vui.vn
+0.0.0.0    v7.stats.avast.com
+0.0.0.0    v7event.stats.avast.com
 
-# Nhóm 3: SDK Quảng cáo & Game rác
-0.0.0.0    html5.gamedistribution.com
-0.0.0.0    msgrt.gamedistribution.com
-0.0.0.0    tag.atom.gamedistribution.com
-0.0.0.0    pm.azerioncircle.com
-0.0.0.0    adsdk.microsoft.com
+# --- NHÓM 4: VPN & PROXY RỦI RO (BYPASS TOOLS) ---
+0.0.0.0    analytics-toolbar.falais.com
+0.0.0.0    analytics-toolbar.urban-vpn.com
+0.0.0.0    authentication.falais.com
+0.0.0.0    authentication.urban-vpn.com
+0.0.0.0    whitejacketsvpn.duckdns.org
+
 # [END OF COMBINED BLOCKLIST]
