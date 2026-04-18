@@ -78,4 +78,37 @@
 0.0.0.0    authentication.urban-vpn.com
 0.0.0.0    whitejacketsvpn.duckdns.org
 
+# --- [NEW] NHÓM NGUY HIỂM & LỪA ĐẢO ---
+0.0.0.0    driverhugoverblown.com
+0.0.0.0    flavouredjuicycontent.com
+0.0.0.0    phili18.amass15.top
+0.0.0.0    sings2.amass2.top
+0.0.0.0    f1686s.com
+0.0.0.0    f1681.life
+0.0.0.0    f1686.wiki
+0.0.0.0    ok.f168k.com
+0.0.0.0    data.vsgod.win
+
+# --- [NEW] THEO DÕI & TELEMETRY ---
+0.0.0.0    f-log-extension.grammarly.io
+0.0.0.0    gnar.grammarly.com
+0.0.0.0    extension.femetrics.grammarly.io
+0.0.0.0    gnwte4-launches.appsflyersdk.com
+0.0.0.0    att-launches.appsflyersdk.com
+0.0.0.0    us.i.posthog.com
+0.0.0.0    rum.hlx.page
+
+# --- [NEW] QUẢNG CÁO & GAME SDK ---
+0.0.0.0    a.nitropay.com
+0.0.0.0    pbs.nitropay.com
+0.0.0.0    fast.nexx360.io
+0.0.0.0    js.rev.iq
+0.0.0.0    playhop.com
+0.0.0.0    games.playhop.com
+0.0.0.0    sse.games.playhop.com
+0.0.0.0    poki.com
+0.0.0.0    api.poki.com
+0.0.0.0    slither.io
+0.0.0.0    slither.com
+
 # [END OF COMBINED BLOCKLIST]
