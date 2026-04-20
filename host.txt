@@ -155,5 +155,47 @@
 0.0.0.0    wayfarerorthodox.com
 0.0.0.0    simbmwtlplruhoio3siebahsnabqeaqbaeaq.a.e.e5.sk
 
+# [BLOCKLIST TOI UU - 20-04-2026]
+# Chặn các tên miền nguy hại, cá cược, quảng cáo và theo dõi ẩn.
+
+# --- NHOM 1: CA CUOC & LUA DAO (GAMBLING & SCAM) ---
+0.0.0.0    api.78winnf.love
+0.0.0.0    78winds01.pages.dev
+0.0.0.0    media.78win86.vip
+0.0.0.0    media.98jjun88
+0.0.0.0    shbet800.com
+
+# --- NHOM 2: PHIM LAU & TRUYEN LAU (PIRACY - CHUA MA DOC) ---
+0.0.0.0    motchillk.mov
+0.0.0.0    4nimevietsub.id
+0.0.0.0    truyenggvn.com
+0.0.0.0    i.mpcdn.top
+0.0.0.0    vod.vidsugar.top
+0.0.0.0    vip.opstream10.com
+0.0.0.0    haivan.lol
+0.0.0.0    api.haivan.lol
+0.0.0.0    s6.kkphimplayer6.com
+0.0.0.0    stream03.bapluoc.tv
+0.0.0.0    truyenqqno.com
+
+# --- NHOM 3: ADWARE & MALICIOUS DOMAINS (QUANG CAO DOC HAI) ---
+0.0.0.0    sedatesturine.cfd
+0.0.0.0    heavilywoolier.qpon
+0.0.0.0    hy.shibahsjessing.qpon
+0.0.0.0    yuckyabrosia.qpon
+0.0.0.0    justinepulvino.qpon
+0.0.0.0    zq.wizensbuphaga.shop
+0.0.0.0    track.extdl.icu
+0.0.0.0    radiancerelaysacred.com
+0.0.0.0    cdn.jsdelivr.net.cdn.cloudflare.net
+0.0.0.0    stpd.cloud
+0.0.0.0    cluv.top
+0.0.0.0    malays12.hihihoho2.top
+
+# --- NHOM 4: TELEMETRY & TRACKING (THEO DOI NGUOI DUNG) ---
+0.0.0.0    ogads-pa.clients6.google.com
+0.0.0.0    ep2.adtrafficquality.google
+0.0.0.0    instant.page
+
 
 # [END OF COMBINED BLOCKLIST]
