@@ -143,4 +143,27 @@
 0.0.0.0    tag.atom.gamedistribution.com
 0.0.0.0    tn.flashb.id
 
+# --- [NEW] NHÓM NGUY HIỂM & PHISHING (TỪ LOG) ---
+0.0.0.0    en.bistredmccoy.cyou
+0.0.0.0    pg.phaseganging.shop
+0.0.0.0    aleutic.ordenerastergasman.cyou
+0.0.0.0    namev1.top
+
+# --- [NEW] NHÓM PHIM LẬU & NỘI DUNG KHÔNG LÀNH MẠNH ---
+0.0.0.0    www.sieutamphim.pro
+0.0.0.0    motchillui.org
+0.0.0.0    phimhdc.com
+0.0.0.0    phimhdcs.com
+0.0.0.0    user-service.myhd.info
+
+# --- [NEW] NHÓM QUẢNG CÁO & THEO DÕI ẨN ---
+0.0.0.0    mobitrade.clicks9.com
+0.0.0.0    xml-eu-v4.revantagex.com
+0.0.0.0    player.gliacloud.com
+0.0.0.0    blockblasts.io
+
+# --- [NEW] CẬP NHẬT TELEMETRY (THEO DÕI HỆ THỐNG) ---
+0.0.0.0    o4510509735411712.ingest.us.sentry.io
+0.0.0.0    config.extension.grammarly.com
+
 # [END OF COMBINED BLOCKLIST]
