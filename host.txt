@@ -1,201 +1,146 @@
-# [COMBINED BLOCKLIST - UPDATED 2026]
-# Mục tiêu: Chặn quảng cáo độc hại, theo dõi, lừa đảo và VPN rủi ro.
+# [COMBINED BLOCKLIST - UPDATED APRIL 2026]
+# Muc tieu: Chan quang cao doc hai, theo doi, lua dao va VPN rui ro.
 
-# --- NHÓM 1: LỪA ĐẢO, GIẢ MẠO & TÊN MIỀN LẠ (SCAM/PHISHING) ---
+# --- NHOM 1: LUA DAO, CA CUOC & GIA MAO ---
 0.0.0.0    789bet800.com
+0.0.0.0    78winds01.pages.dev
+0.0.0.0    api.78winnf.love
+0.0.0.0    api.78winnf.love
 0.0.0.0    aqle3.com
-0.0.0.0    avalanchetremorunfilled.com
 0.0.0.0    bankedimpinge.qpon
+0.0.0.0    daftarfilles.shop
+0.0.0.0    f1681.life
+0.0.0.0    f1686.wiki
+0.0.0.0    f1686s.com
+0.0.0.0    media.78win86.vip
+0.0.0.0    media.98jjun88
+0.0.0.0    ok.f168k.com
+0.0.0.0    p2pb2b.com
+0.0.0.0    shbet800.com
+
+# --- NHOM 2: QUANG CAO DOC HAI & ADWARE ---
+0.0.0.0    avalanchetremorunfilled.com
 0.0.0.0    caldory.com
+0.0.0.0    cdn.jsdelivr.net.cdn.cloudflare.net
 0.0.0.0    chagnougroalry.net
+0.0.0.0    cluv.top
 0.0.0.0    cnemicsynthol.qpon
 0.0.0.0    cupbearergrowllurch.com
-0.0.0.0    daftarfilles.shop
+0.0.0.0    data.vsgod.win
 0.0.0.0    dilutertharen.shop
+0.0.0.0    driverhugoverblown.com
+0.0.0.0    flavouredjuicycontent.com
 0.0.0.0    gavesamoan.cyou
+0.0.0.0    heavilywoolier.qpon
 0.0.0.0    herselfjocks.qpon
+0.0.0.0    hy.shibahsjessing.qpon
 0.0.0.0    justinepulvino.qpon
 0.0.0.0    lap123.com
 0.0.0.0    lr.corrumpskeptic.cyou
-0.0.0.0    p2pb2b.com
+0.0.0.0    malays12.hihihoho2.top
 0.0.0.0    pe.parcookgoofah.qpon
-0.0.0.0    play4.u5rq.com
-0.0.0.0    reset.moviking.com
+0.0.0.0    phili18.amass15.top
+0.0.0.0    radiancerelaysacred.com
+0.0.0.0    sedatesturine.cfd
+0.0.0.0    short.icu
+0.0.0.0    sings2.amass2.top
+0.0.0.0    stpd.cloud
+0.0.0.0    track.extdl.icu
 0.0.0.0    wayfarerorthodox.com
 0.0.0.0    wayground.com
-0.0.0.0    fnl.wayground.com
-0.0.0.0    wd.2980.com
-0.0.0.0    xy.allodiapreburn.com
+0.0.0.0    yuckyabrosia.qpon
+0.0.0.0    zeroclick.dev
+0.0.0.0    zq.wizensbuphaga.shop
 
-# --- NHÓM 2: QUẢNG CÁO ĐỘC HẠI & MẠNG LƯỚI TRACKING ---
+# --- NHOM 3: THEO DOI & ANALYTICS (TELEMETRY) ---
 0.0.0.0    adsdk.microsoft.com
-0.0.0.0    bid.missena.io
-0.0.0.0    bid.sparteo.com
-0.0.0.0    eu.fastcmp.com
-0.0.0.0    fafvertizing.crazygames.com
-0.0.0.0    html5.gamedistribution.com
-0.0.0.0    mafvertizing.crazygames.com
-0.0.0.0    marketplace.anyclip.com
-0.0.0.0    msgrt.gamedistribution.com
-0.0.0.0    player.anyclip.com
-0.0.0.0    pm.azerioncircle.com
-0.0.0.0    prebid.anyclip.com
-0.0.0.0    qsearch-a.akamaihd.net
-0.0.0.0    srv.flashb.id
-0.0.0.0    static.fastcmp.com
-0.0.0.0    t.fastcmp.com
-0.0.0.0    tag.atom.gamedistribution.com
-0.0.0.0    tn.flashb.id
-
-# --- NHÓM 3: TELEMETRY, ANALYTICS & LOG INGESTION ---
 0.0.0.0    aefd.nelreports.net
 0.0.0.0    analytics.ahrefs.com
 0.0.0.0    analytics.ff.avast.com
 0.0.0.0    analytics01.cisco.netacad.com
+0.0.0.0    att-launches.appsflyersdk.com
 0.0.0.0    browser-intake-us5-datadoghq.com
 0.0.0.0    deff.nelreports.net
 0.0.0.0    egde.nelreports.net
+0.0.0.0    ep2.adtrafficquality.google
+0.0.0.0    extension.femetrics.grammarly.io
+0.0.0.0    f-log-extension.grammarly.io
 0.0.0.0    g.ezoic.net
 0.0.0.0    global.ketchcdn.com
+0.0.0.0    gnar.grammarly.com
+0.0.0.0    gnwte4-launches.appsflyersdk.com
 0.0.0.0    hb-vntsm-com.global.ssl.fastly.net
 0.0.0.0    hb.vntsm.io
+0.0.0.0    instant.page
 0.0.0.0    mp.4dex.io
 0.0.0.0    o13855.ingest.sentry.io
 0.0.0.0    o187844.ingest.us.sentry.io
+0.0.0.0    o293668.ingest.us.sentry.io
 0.0.0.0    o90235.ingest.sentry.io
+0.0.0.0    ogads-pa.clients6.google.com
 0.0.0.0    p13n.adobe.io
+0.0.0.0    pbjs-stream.bydata.com
+0.0.0.0    pixel.gliacloud.com
+0.0.0.0    public.profitwell.com
+0.0.0.0    qsearch-a.akamaihd.net
+0.0.0.0    rum.hlx.page
+0.0.0.0    smartx.collector.rbwtech.net
 0.0.0.0    stats.securebrowser.com
 0.0.0.0    statsigapi.net
 0.0.0.0    sync.quantumdex.io
 0.0.0.0    thongke.vui.vn
+0.0.0.0    us.i.posthog.com
 0.0.0.0    v7.stats.avast.com
 0.0.0.0    v7event.stats.avast.com
+0.0.0.0    vnevent.ggblueshark.com
 
-# --- NHÓM 4: VPN & PROXY RỦI RO (BYPASS TOOLS) ---
+# --- NHOM 4: PHIM LAU & TRUYEN LAU (CHUA MA DOC) ---
+0.0.0.0    4nimevietsub.id
+0.0.0.0    api.haivan.lol
+0.0.0.0    haivan.lol
+0.0.0.0    i.mpcdn.top
+0.0.0.0    motchillk.mov
+0.0.0.0    s6.kkphimplayer6.com
+0.0.0.0    stream03.bapluoc.tv
+0.0.0.0    truyenggvn.com
+0.0.0.0    truyenqqno.com
+0.0.0.0    vip.opstream10.com
+0.0.0.0    vod.vidsugar.top
+
+# --- NHOM 5: VPN & PROXY (BYPASS TOOLS) ---
 0.0.0.0    analytics-toolbar.falais.com
 0.0.0.0    analytics-toolbar.urban-vpn.com
 0.0.0.0    authentication.falais.com
 0.0.0.0    authentication.urban-vpn.com
 0.0.0.0    whitejacketsvpn.duckdns.org
 
-# --- [NEW] NHÓM NGUY HIỂM & LỪA ĐẢO ---
-0.0.0.0    driverhugoverblown.com
-0.0.0.0    flavouredjuicycontent.com
-0.0.0.0    phili18.amass15.top
-0.0.0.0    sings2.amass2.top
-0.0.0.0    f1686s.com
-0.0.0.0    f1681.life
-0.0.0.0    f1686.wiki
-0.0.0.0    ok.f168k.com
-0.0.0.0    data.vsgod.win
-
-# --- [NEW] THEO DÕI & TELEMETRY ---
-0.0.0.0    f-log-extension.grammarly.io
-0.0.0.0    gnar.grammarly.com
-0.0.0.0    extension.femetrics.grammarly.io
-0.0.0.0    gnwte4-launches.appsflyersdk.com
-0.0.0.0    att-launches.appsflyersdk.com
-0.0.0.0    us.i.posthog.com
-0.0.0.0    rum.hlx.page
-
-# --- [NEW] QUẢNG CÁO & GAME SDK ---
+# --- NHOM 6: GAME SDK & ADS NETWORK ---
 0.0.0.0    a.nitropay.com
-0.0.0.0    pbs.nitropay.com
-0.0.0.0    fast.nexx360.io
-0.0.0.0    js.rev.iq
-0.0.0.0    playhop.com
-0.0.0.0    games.playhop.com
-0.0.0.0    sse.games.playhop.com
-0.0.0.0    poki.com
 0.0.0.0    api.poki.com
-0.0.0.0    slither.io
+0.0.0.0    bid.missena.io
+0.0.0.0    bid.sparteo.com
+0.0.0.0    eu.fastcmp.com
+0.0.0.0    fafvertizing.crazygames.com
+0.0.0.0    fast.nexx360.io
+0.0.0.0    games.playhop.com
+0.0.0.0    html5.gamedistribution.com
+0.0.0.0    js.rev.iq
+0.0.0.0    mafvertizing.crazygames.com
+0.0.0.0    marketplace.anyclip.com
+0.0.0.0    msgrt.gamedistribution.com
+0.0.0.0    pbs.nitropay.com
+0.0.0.0    player.anyclip.com
+0.0.0.0    playhop.com
+0.0.0.0    pm.azerioncircle.com
+0.0.0.0    poki.com
+0.0.0.0    prebid.anyclip.com
 0.0.0.0    slither.com
-# [COMBINED BLOCKLIST - UPDATE APRIL 2026]
-# Phân tích từ 38,000+ DNS Hits - Loại bỏ Tracking & Adware
-
-# --- Nhóm 1: Adware & Malicious Domains (Tên miền rác/độc hại mới) ---
-0.0.0.0    sedatesturine.cfd
-0.0.0.0    heavilywoolier.qpon
-0.0.0.0    hy.shibahsjessing.qpon
-0.0.0.0    yuckyabrosia.qpon
-0.0.0.0    justinepulvino.qpon
-0.0.0.0    pe.parcookgoofah.qpon
-0.0.0.0    cnemicsynthol.qpon
-0.0.0.0    lr.corrumpskeptic.cyou
-0.0.0.0    gavesamoan.cyou
-0.0.0.0    yw.rublisatees.shop
-0.0.0.0    daftarfilles.shop
-0.0.0.0    dilutertharen.shop
-0.0.0.0    zq.wizensbuphaga.shop
-0.0.0.0    track.extdl.icu
-0.0.0.0    short.icu
-0.0.0.0    zeroclick.dev
-0.0.0.0    radiancerelaysacred.com
-
-# --- Nhóm 3: Analytics & Error Reporting (Sentry, Datadog, etc.) ---
-0.0.0.0    o13855.ingest.sentry.io
-0.0.0.0    o187844.ingest.us.sentry.io
-0.0.0.0    o90235.ingest.sentry.io
-0.0.0.0    o293668.ingest.us.sentry.io
-0.0.0.0    pixel.gliacloud.com
-0.0.0.0    pbjs-stream.bydata.com
-0.0.0.0    smartx.collector.rbwtech.net
-0.0.0.0    analytics.falais.com
-0.0.0.0    deff.nelreports.net
-0.0.0.0    aefd.nelreports.net
-0.0.0.0    egde.nelreports.net
-0.0.0.0    mp.4dex.io
-0.0.0.0    sync.quantumdex.io
-0.0.0.0    public.profitwell.com
-0.0.0.0    vnevent.ggblueshark.com
-
-# --- Nhóm 4: Các Domain đáng ngờ khác ---
-0.0.0.0    wayground.com
-0.0.0.0    fnl.wayground.com
-0.0.0.0    wayfarerorthodox.com
-0.0.0.0    simbmwtlplruhoio3siebahsnabqeaqbaeaq.a.e.e5.sk
-
-# [BLOCKLIST TOI UU - 20-04-2026]
-# Chặn các tên miền nguy hại, cá cược, quảng cáo và theo dõi ẩn.
-
-# --- NHOM 1: CA CUOC & LUA DAO (GAMBLING & SCAM) ---
-0.0.0.0    api.78winnf.love
-0.0.0.0    78winds01.pages.dev
-0.0.0.0    media.78win86.vip
-0.0.0.0    media.98jjun88
-0.0.0.0    shbet800.com
-
-# --- NHOM 2: PHIM LAU & TRUYEN LAU (PIRACY - CHUA MA DOC) ---
-0.0.0.0    motchillk.mov
-0.0.0.0    4nimevietsub.id
-0.0.0.0    truyenggvn.com
-0.0.0.0    i.mpcdn.top
-0.0.0.0    vod.vidsugar.top
-0.0.0.0    vip.opstream10.com
-0.0.0.0    haivan.lol
-0.0.0.0    api.haivan.lol
-0.0.0.0    s6.kkphimplayer6.com
-0.0.0.0    stream03.bapluoc.tv
-0.0.0.0    truyenqqno.com
-
-# --- NHOM 3: ADWARE & MALICIOUS DOMAINS (QUANG CAO DOC HAI) ---
-0.0.0.0    sedatesturine.cfd
-0.0.0.0    heavilywoolier.qpon
-0.0.0.0    hy.shibahsjessing.qpon
-0.0.0.0    yuckyabrosia.qpon
-0.0.0.0    justinepulvino.qpon
-0.0.0.0    zq.wizensbuphaga.shop
-0.0.0.0    track.extdl.icu
-0.0.0.0    radiancerelaysacred.com
-0.0.0.0    cdn.jsdelivr.net.cdn.cloudflare.net
-0.0.0.0    stpd.cloud
-0.0.0.0    cluv.top
-0.0.0.0    malays12.hihihoho2.top
-
-# --- NHOM 4: TELEMETRY & TRACKING (THEO DOI NGUOI DUNG) ---
-0.0.0.0    ogads-pa.clients6.google.com
-0.0.0.0    ep2.adtrafficquality.google
-0.0.0.0    instant.page
-
+0.0.0.0    slither.io
+0.0.0.0    srv.flashb.id
+0.0.0.0    sse.games.playhop.com
+0.0.0.0    static.fastcmp.com
+0.0.0.0    t.fastcmp.com
+0.0.0.0    tag.atom.gamedistribution.com
+0.0.0.0    tn.flashb.id
 
 # [END OF COMBINED BLOCKLIST]
