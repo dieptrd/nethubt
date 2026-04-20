@@ -110,5 +110,50 @@
 0.0.0.0    api.poki.com
 0.0.0.0    slither.io
 0.0.0.0    slither.com
+# [COMBINED BLOCKLIST - UPDATE APRIL 2026]
+# Phân tích từ 38,000+ DNS Hits - Loại bỏ Tracking & Adware
+
+# --- Nhóm 1: Adware & Malicious Domains (Tên miền rác/độc hại mới) ---
+0.0.0.0    sedatesturine.cfd
+0.0.0.0    heavilywoolier.qpon
+0.0.0.0    hy.shibahsjessing.qpon
+0.0.0.0    yuckyabrosia.qpon
+0.0.0.0    justinepulvino.qpon
+0.0.0.0    pe.parcookgoofah.qpon
+0.0.0.0    cnemicsynthol.qpon
+0.0.0.0    lr.corrumpskeptic.cyou
+0.0.0.0    gavesamoan.cyou
+0.0.0.0    yw.rublisatees.shop
+0.0.0.0    daftarfilles.shop
+0.0.0.0    dilutertharen.shop
+0.0.0.0    zq.wizensbuphaga.shop
+0.0.0.0    track.extdl.icu
+0.0.0.0    short.icu
+0.0.0.0    zeroclick.dev
+0.0.0.0    radiancerelaysacred.com
+
+# --- Nhóm 3: Analytics & Error Reporting (Sentry, Datadog, etc.) ---
+0.0.0.0    o13855.ingest.sentry.io
+0.0.0.0    o187844.ingest.us.sentry.io
+0.0.0.0    o90235.ingest.sentry.io
+0.0.0.0    o293668.ingest.us.sentry.io
+0.0.0.0    pixel.gliacloud.com
+0.0.0.0    pbjs-stream.bydata.com
+0.0.0.0    smartx.collector.rbwtech.net
+0.0.0.0    analytics.falais.com
+0.0.0.0    deff.nelreports.net
+0.0.0.0    aefd.nelreports.net
+0.0.0.0    egde.nelreports.net
+0.0.0.0    mp.4dex.io
+0.0.0.0    sync.quantumdex.io
+0.0.0.0    public.profitwell.com
+0.0.0.0    vnevent.ggblueshark.com
+
+# --- Nhóm 4: Các Domain đáng ngờ khác ---
+0.0.0.0    wayground.com
+0.0.0.0    fnl.wayground.com
+0.0.0.0    wayfarerorthodox.com
+0.0.0.0    simbmwtlplruhoio3siebahsnabqeaqbaeaq.a.e.e5.sk
+
 
 # [END OF COMBINED BLOCKLIST]
