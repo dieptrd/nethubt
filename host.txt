@@ -166,4 +166,26 @@
 0.0.0.0    o4510509735411712.ingest.us.sentry.io
 0.0.0.0    config.extension.grammarly.com
 
+# --- [NEW] NHÓM PHIM LẬU & NỘI DUNG KHÔNG LÀNH MẠNH ---
+0.0.0.0    motchilltv.date
+0.0.0.0    onflix.me
+0.0.0.0    api.onflix.xyz
+0.0.0.0    img.ophim.live
+0.0.0.0    phim.nguonc.com
+0.0.0.0    phimimg.com
+
+# --- [NEW] NHÓM PHISHING & MALWARE (TÊN MIỀN LẠ) ---
+0.0.0.0    indoss15.amass15.top
+0.0.0.0    sg-sentry.changzhi.top
+0.0.0.0    sg-datahub.changzhi.top
+
+# --- [NEW] NHÓM THEO DÕI & QUẢNG CÁO TRONG GAME ---
+0.0.0.0    18869.cache.armorgames.com
+0.0.0.0    o4504767952388096.ingest.sentry.io
+0.0.0.0    o881784.ingest.us.sentry.io
+
+# --- [NEW] NHÓM TÊN MIỀN RÁC (DGA/SUSPICIOUS) ---
+0.0.0.0    relcomms-prod-dagnegedescbeefs.b02.azurefd.net
+0.0.0.0    hybrid-cloud-widgets-production.s3.us.cloud-object-storage.appdomain.cloud
+
 # [END OF COMBINED BLOCKLIST]
