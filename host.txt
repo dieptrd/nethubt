@@ -1,5 +1,72 @@
 # [FINAL COMBINED BLOCKLIST - UPDATED 22-04-2026]
 # Muc tieu: Chan quang cao doc hai, theo doi, lua dao va noi dung khong lanh manh.
+# [BLOCKLIST HOSTS FILE - UPDATED 2026]
+# Chặn mã độc, lừa đảo, cá cược và quảng cáo rác
+
+# --- NHÓM 1: MÃ ĐỘC & TÊN MIỀN NGẪU NHIÊN (DGA/MALWARE) ---
+0.0.0.0    xjpakmdcfuqe.biz
+0.0.0.0    xjpakmdcfuqe.com
+0.0.0.0    xjpakmdcfuqe.in
+0.0.0.0    xjpakmdcfuqe.nl
+0.0.0.0    gvaq70s7he.ru
+0.0.0.0    anyhowfleys.cyou
+0.0.0.0    carkgwaiz.hytsocesk.com
+0.0.0.0    myniskgw.ryksockesg.net
+0.0.0.0    jakpotgwab.geightdors.net
+0.0.0.0    reyeshehadtwobri.com
+0.0.0.0    sedatesturine.cfd
+0.0.0.0    zealscringed.cyou
+0.0.0.0    v6sgqpyi.whskxk1.com
+
+# --- NHÓM 2: CÁ CƯỢC & LỪA ĐẢO (GAMBLING & SCAM) ---
+0.0.0.0    sin88.nl
+0.0.0.0    s3.sin88.nl
+0.0.0.0    sunwin.ec
+0.0.0.0    sunwin.live
+0.0.0.0    web.sunwin.ec
+0.0.0.0    club.f16809.com
+0.0.0.0    club.f1689.run
+0.0.0.0    ok.f168b3.ren
+0.0.0.0    vi.bitcoin-price.click
+0.0.0.0    789bet800.com
+0.0.0.0    shbet800.com
+0.0.0.0    api.78winnf.love
+
+# --- NHÓM 3: QUẢNG CÁO ĐỘC HẠI & THEO DÕI (ADWARE/TRACKING) ---
+0.0.0.0    getpulse.click
+0.0.0.0    smoggyfeed.com
+0.0.0.0    cloudtrck.com
+0.0.0.0    stats-collector.zdoiodhtqahjizqq.net
+0.0.0.0    avast.telemetry.eyeo.com
+0.0.0.0    coccoc.telemetry.eyeo.com
+0.0.0.0    stats.securebrowser.com
+0.0.0.0    ubt.tracking.shopee.vn
+0.0.0.0    ubta.tracking.shopee.vn
+0.0.0.0    browser.events.data.msn.com
+
+# --- NHÓM 4: PHIM LẬU & NỘI DUNG NGƯỜI LỚN (PIRACY/ADULT) ---
+0.0.0.0    clipsexmoi.net
+0.0.0.0    javhay.page
+0.0.0.0    link-vlxx.com
+0.0.0.0    sexdep.blog
+0.0.0.0    vi-hentai.org
+0.0.0.0    viet69.ke
+0.0.0.0    vn-vlxx88.com
+0.0.0.0    xnhau.hot
+0.0.0.0    xnhaustorage.com
+0.0.0.0    xamvn.com
+0.0.0.0    motchillkc.fm
+0.0.0.0    vip.opstream90.com
+0.0.0.0    vip.opstream13.com
+0.0.0.0    nettruyen8s.com
+0.0.0.0    goctruyentranhvui23.com
+
+# --- NHÓM 5: TÊN MIỀN RÁC & KHÁC ---
+0.0.0.0    otieu.com
+0.0.0.0    honeygain.com
+0.0.0.0    pawns.app
+0.0.0.0    oiadnoigc.com
+0.0.0.0    sochim.xyz
 
 # --- NHOM 1: CA CUOC, GAME BAI & LUA DAO (GAMBLING & SCAM) ---
 0.0.0.0    789bet800.com
