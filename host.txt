@@ -218,5 +218,29 @@
 0.0.0.0    econventa.com
 0.0.0.0    relcomms-prod-dagnegedescbeefs.b02.azurefd.net
 0.0.0.0    gekeebsirs.com
+# --- NHÓM CÁ CƯỢC & GAME BÀI (GAMBLING) ---
+0.0.0.0    ball88.fun
+0.0.0.0    bom88.ing
+0.0.0.0    five88.vc
+0.0.0.0    haywin.my
+0.0.0.0    d14x1488qqh51m.cloudfront.net
+
+# --- NHÓM PHIM LẬU & TRUYỆN (PIRACY) ---
+0.0.0.0    animevietsub.bz
+0.0.0.0    animevietsub.id
+0.0.0.0    rt.animevietsub.bz
+0.0.0.0    intercambiosvirtuales.org
+
+# --- NHÓM THEO DÕI ĐỘC HẠI & MALWARE ---
+0.0.0.0    securelogger.top
+0.0.0.0    ruzone.securelogger.top
+0.0.0.0    sings3.amass2.top
+0.0.0.0    relay.shhnowisnottheti.me
+0.0.0.0    1qi8yar8bnhh1r8x9el7cctgbe7qg0.ext-twitch.tv
+
+# --- NHÓM QUẢNG CÁO TRONG GAME (ADWARE) ---
+0.0.0.0    grand-shift-auto-4258-1.games.playgama.net
+0.0.0.0    kick-it---fun-soccer-game.game-files.crazygames.com
+0.0.0.0    desktop-netinstaller-sub.osp.opera.software
 
 # [END OF COMBINED BLOCKLIST]
