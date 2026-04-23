@@ -1,6 +1,50 @@
 # [FINAL COMBINED BLOCKLIST - UPDATED 22-04-2026]
 # Muc tieu: Chan quang cao doc hai, theo doi, lua dao va noi dung khong lanh manh.
 # [BLOCKLIST HOSTS FILE - UPDATED 2026]
+
+# --- BLOCKLIST CAP NHAT 2026 ---
+
+# [CA CUOC & LUA DAO]
+0.0.0.0    sun20.win
+0.0.0.0    sunwin.af
+0.0.0.0    b7510.com
+0.0.0.0    vi.bitcoin-price.click
+
+# [ADWARE & MALWARE - NGUY HIEM]
+0.0.0.0    pe.parcookgoofah.qpon
+0.0.0.0    justinepulvino.qpon
+0.0.0.0    reyeshehadtwobri.com
+0.0.0.0    getpulse.click
+0.0.0.0    www.linkonclick.com
+0.0.0.0    continue2download.com
+0.0.0.0    smoggyfeed.com
+0.0.0.0    qsearch-a.akamaihd.net
+0.0.0.0    vic.hair
+0.0.0.0    tukrd.com
+0.0.0.0    wuytl.com
+
+# [PHIM LAU & TRUYEN LAU]
+0.0.0.0    fplay.hdplaylink.com
+0.0.0.0    yanhh3d.net
+0.0.0.0    hh3d.online
+0.0.0.0    cdn.xemphim1.top
+0.0.0.0    maasdam-6-nl.maxxxcdn.com
+0.0.0.0    maasdam-2-nl.maxxxcdn.com
+0.0.0.0    otieu.com
+0.0.0.0    xemvn.vn
+
+# [THEO DOI & QUANG CAO]
+0.0.0.0    avast.telemetry.eyeo.com
+0.0.0.0    stats.securebrowser.com
+0.0.0.0    config.avast.securebrowser.com
+0.0.0.0    update.avastbrowser.com
+0.0.0.0    urlite.ff.avast.com
+0.0.0.0    shepherd.ff.avast.com
+0.0.0.0    ip-info.ff.avast.com
+0.0.0.0    ep1.adtrafficquality.google
+0.0.0.0    ep2.adtrafficquality.google
+0.0.0.0    avast_browser_tiles.tiles.ampfeed.com
+
 # Chặn mã độc, lừa đảo, cá cược và quảng cáo rác
 
 # --- NHÓM 1: MÃ ĐỘC & TÊN MIỀN NGẪU NHIÊN (DGA/MALWARE) ---
