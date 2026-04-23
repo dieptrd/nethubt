@@ -1,6 +1,63 @@
 # [FINAL COMBINED BLOCKLIST - UPDATED 23-04-2026]
 # Muc tieu: Chan quang cao doc hai, theo doi, lua dao va noi dung khong lanh manh.
 # Huong dan: Copy vao file hosts (C:\Windows\System32\drivers\etc\hosts)
+# [DANH SÁCH CHẶN TỪ LOG MỚI NHẤT - 23/04/2026]
+
+# --- NHÓM CÁ CƯỢC & LỪA ĐẢO ---
+0.0.0.0    gemwin.vc
+0.0.0.0    nrocaycuoc.com
+0.0.0.0    ok9vip8.com
+0.0.0.0    qq8889.me
+0.0.0.0    yo88.pw
+
+# --- NHÓM MÃ ĐỘC, DGA & ADWARE (DỰA TRÊN LOG) ---
+0.0.0.0    blendortenacle.cfd
+0.0.0.0    bodergatezlpag.dsrcgoms.net
+0.0.0.0    boxypluckunrelated.com
+0.0.0.0    codeflowstackhub.click
+0.0.0.0    colmose.flatletgoggafeedbin.cfd
+0.0.0.0    kettledroopingcontinuation.com
+0.0.0.0    malays12.hihihoho2.top
+0.0.0.0    sureview.shop
+0.0.0.0    xmafrihkua.in
+0.0.0.0    xn.gombeencistron.cyou
+0.0.0.0    zj.prawnergurnard.cfd
+
+# --- NHÓM PHIM LẬU & TRUYỆN LẬU ---
+0.0.0.0    about.xemvn.vn
+0.0.0.0    anime.cdnphim.store
+0.0.0.0    animevietsub.live
+0.0.0.0    cdnphim.live
+0.0.0.0    cdnphim.store
+0.0.0.0    foxtruyen2.com
+0.0.0.0    motchillk.bot
+0.0.0.0    motchillk.fit
+0.0.0.0    motchillk.hot
+0.0.0.0    motchillk.soy
+0.0.0.0    motchillk.vip
+0.0.0.0    motchillk.you
+0.0.0.0    motphimr.io
+0.0.0.0    nettruyen.works
+0.0.0.0    st.foxtruyen2.com
+0.0.0.0    xemvn.vn
+
+# --- NHÓM THEO DÕI (TELEMETRY & TRACKING) ---
+0.0.0.0    api4.trakipsg.net
+0.0.0.0    api6.trakipsg.net
+0.0.0.0    config.avast.securebrowser.com
+0.0.0.0    config.nos.avast.com
+0.0.0.0    engagement-content.avastbrowser.com
+0.0.0.0    ip-info.ff.avast.com
+0.0.0.0    oca.telemetry.microsoft.com
+0.0.0.0    shepherd.ff.avast.com
+0.0.0.0    stats.securebrowser.com
+0.0.0.0    update.avastbrowser.com
+0.0.0.0    urlite.ff.avast.com
+0.0.0.0    vortex.data.microsoft.com
+
+# --- NHÓM QUẢNG CÁO & NỘI DUNG NHẠY CẢM ---
+0.0.0.0    adulterc.org
+0.0.0.0    rungrinh.vn
 
 # --- NHÓM 1: CÁ CƯỢC, GAME BÀI & LỪA ĐẢO (GAMBLING & SCAM) ---
 0.0.0.0    1213111.com
