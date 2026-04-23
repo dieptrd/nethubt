@@ -1,282 +1,208 @@
-# [FINAL COMBINED BLOCKLIST - UPDATED 22-04-2026]
+# [FINAL COMBINED BLOCKLIST - UPDATED 23-04-2026]
 # Muc tieu: Chan quang cao doc hai, theo doi, lua dao va noi dung khong lanh manh.
-# [BLOCKLIST HOSTS FILE - UPDATED 2026]
+# Huong dan: Copy vao file hosts (C:\Windows\System32\drivers\etc\hosts)
 
-# --- BLOCKLIST CAP NHAT 2026 ---
-
-# [CA CUOC & LUA DAO]
-0.0.0.0    sun20.win
-0.0.0.0    sunwin.af
-0.0.0.0    b7510.com
-0.0.0.0    vi.bitcoin-price.click
-
-# [ADWARE & MALWARE - NGUY HIEM]
-0.0.0.0    pe.parcookgoofah.qpon
-0.0.0.0    justinepulvino.qpon
-0.0.0.0    reyeshehadtwobri.com
-0.0.0.0    getpulse.click
-0.0.0.0    www.linkonclick.com
-0.0.0.0    continue2download.com
-0.0.0.0    smoggyfeed.com
-0.0.0.0    qsearch-a.akamaihd.net
-0.0.0.0    vic.hair
-0.0.0.0    tukrd.com
-0.0.0.0    wuytl.com
-
-# [PHIM LAU & TRUYEN LAU]
-0.0.0.0    fplay.hdplaylink.com
-0.0.0.0    yanhh3d.net
-0.0.0.0    hh3d.online
-0.0.0.0    cdn.xemphim1.top
-0.0.0.0    maasdam-6-nl.maxxxcdn.com
-0.0.0.0    maasdam-2-nl.maxxxcdn.com
-0.0.0.0    otieu.com
-0.0.0.0    xemvn.vn
-
-# [THEO DOI & QUANG CAO]
-0.0.0.0    avast.telemetry.eyeo.com
-0.0.0.0    stats.securebrowser.com
-0.0.0.0    config.avast.securebrowser.com
-0.0.0.0    update.avastbrowser.com
-0.0.0.0    urlite.ff.avast.com
-0.0.0.0    shepherd.ff.avast.com
-0.0.0.0    ip-info.ff.avast.com
-0.0.0.0    ep1.adtrafficquality.google
-0.0.0.0    ep2.adtrafficquality.google
-0.0.0.0    avast_browser_tiles.tiles.ampfeed.com
-
-# Chặn mã độc, lừa đảo, cá cược và quảng cáo rác
-
-# --- NHÓM 1: MÃ ĐỘC & TÊN MIỀN NGẪU NHIÊN (DGA/MALWARE) ---
-0.0.0.0    xjpakmdcfuqe.biz
-0.0.0.0    xjpakmdcfuqe.com
-0.0.0.0    xjpakmdcfuqe.in
-0.0.0.0    xjpakmdcfuqe.nl
-0.0.0.0    gvaq70s7he.ru
-0.0.0.0    anyhowfleys.cyou
-0.0.0.0    carkgwaiz.hytsocesk.com
-0.0.0.0    myniskgw.ryksockesg.net
-0.0.0.0    jakpotgwab.geightdors.net
-0.0.0.0    reyeshehadtwobri.com
-0.0.0.0    sedatesturine.cfd
-0.0.0.0    zealscringed.cyou
-0.0.0.0    v6sgqpyi.whskxk1.com
-
-# --- NHÓM 2: CÁ CƯỢC & LỪA ĐẢO (GAMBLING & SCAM) ---
-0.0.0.0    sin88.nl
-0.0.0.0    s3.sin88.nl
-0.0.0.0    sunwin.ec
-0.0.0.0    sunwin.live
-0.0.0.0    web.sunwin.ec
-0.0.0.0    club.f16809.com
-0.0.0.0    club.f1689.run
-0.0.0.0    ok.f168b3.ren
-0.0.0.0    vi.bitcoin-price.click
-0.0.0.0    789bet800.com
-0.0.0.0    shbet800.com
-0.0.0.0    api.78winnf.love
-
-# --- NHÓM 3: QUẢNG CÁO ĐỘC HẠI & THEO DÕI (ADWARE/TRACKING) ---
-0.0.0.0    getpulse.click
-0.0.0.0    smoggyfeed.com
-0.0.0.0    cloudtrck.com
-0.0.0.0    stats-collector.zdoiodhtqahjizqq.net
-0.0.0.0    avast.telemetry.eyeo.com
-0.0.0.0    coccoc.telemetry.eyeo.com
-0.0.0.0    stats.securebrowser.com
-0.0.0.0    ubt.tracking.shopee.vn
-0.0.0.0    ubta.tracking.shopee.vn
-0.0.0.0    browser.events.data.msn.com
-
-# --- NHÓM 4: PHIM LẬU & NỘI DUNG NGƯỜI LỚN (PIRACY/ADULT) ---
-0.0.0.0    clipsexmoi.net
-0.0.0.0    javhay.page
-0.0.0.0    link-vlxx.com
-0.0.0.0    sexdep.blog
-0.0.0.0    vi-hentai.org
-0.0.0.0    viet69.ke
-0.0.0.0    vn-vlxx88.com
-0.0.0.0    xnhau.hot
-0.0.0.0    xnhaustorage.com
-0.0.0.0    xamvn.com
-0.0.0.0    motchillkc.fm
-0.0.0.0    vip.opstream90.com
-0.0.0.0    vip.opstream13.com
-0.0.0.0    nettruyen8s.com
-0.0.0.0    goctruyentranhvui23.com
-
-# --- NHÓM 5: TÊN MIỀN RÁC & KHÁC ---
-0.0.0.0    otieu.com
-0.0.0.0    honeygain.com
-0.0.0.0    pawns.app
-0.0.0.0    oiadnoigc.com
-0.0.0.0    sochim.xyz
-
-# --- NHOM 1: CA CUOC, GAME BAI & LUA DAO (GAMBLING & SCAM) ---
-0.0.0.0    789bet800.com
-0.0.0.0    78winds01.pages.dev
-0.0.0.0    api.78winnf.love
-0.0.0.0    media.78win86.vip
-0.0.0.0    media.98jjun88
-0.0.0.0    shbet800.com
-0.0.0.0    onbet.com
-0.0.0.0    onbet998.com
-0.0.0.0    api.onbet.com
-0.0.0.0    cms.onbet998.com
-0.0.0.0    chat.onbet998.com
-0.0.0.0    egames.vbb6.club
-0.0.0.0    ball88.fun
-0.0.0.0    bom88.ing
-0.0.0.0    five88.vc
-0.0.0.0    haywin.my
+# --- NHÓM 1: CÁ CƯỢC, GAME BÀI & LỪA ĐẢO (GAMBLING & SCAM) ---
+0.0.0.0    1213111.com
 0.0.0.0    3639003.com
 0.0.0.0    3639004.com
 0.0.0.0    3639005.com
-0.0.0.0    1213111.com
-0.0.0.0    vv.3639003.com
-0.0.0.0    vv.3639004.com
-0.0.0.0    vv.3639005.com
-0.0.0.0    vv.1213111.com
+0.0.0.0    789bet800.com
+0.0.0.0    78winds01.pages.dev
+0.0.0.0    aj1559.online
+0.0.0.0    api.78winnf.love
+0.0.0.0    api.onbet.com
 0.0.0.0    aqle3.com
+0.0.0.0    b7510.com
+0.0.0.0    ball88.fun
+0.0.0.0    bom88.ing
+0.0.0.0    chat.onbet998.com
+0.0.0.0    club.f16809.com
+0.0.0.0    club.f1689.run
+0.0.0.0    cms.onbet998.com
+0.0.0.0    crn77.com
+0.0.0.0    egames.vbb6.club
 0.0.0.0    f1681.life
 0.0.0.0    f1686.wiki
 0.0.0.0    f1686s.com
+0.0.0.0    five88.vc
+0.0.0.0    games.prorichvip.com
+0.0.0.0    haywin.my
+0.0.0.0    media.78win86.vip
+0.0.0.0    media.98jjun88
+0.0.0.0    ok.f168b3.ren
 0.0.0.0    ok.f168k.com
+0.0.0.0    onbet.com
+0.0.0.0    onbet998.com
 0.0.0.0    p2pb2b.com
+0.0.0.0    s3.sin88.nl
+0.0.0.0    shbet800.com
+0.0.0.0    sin88.nl
+0.0.0.0    sun20.win
+0.0.0.0    sunwin.af
+0.0.0.0    sunwin.ec
+0.0.0.0    sunwin.live
+0.0.0.0    vi.bitcoin-price.click
+0.0.0.0    vv.1213111.com
+0.0.0.0    vv.3639003.com
+0.0.0.0    vv.3639004.com
+0.0.0.0    vv.3639005.com
+0.0.0.0    web.sunwin.ec
 
-# --- NHOM 2: PHIM LAU & TRUYEN LAU (PIRACY & ADULT CONTENT) ---
-0.0.0.0    animevietsub.bz
-0.0.0.0    animevietsub.id
-0.0.0.0    rt.animevietsub.bz
-0.0.0.0    4nimevietsub.id
-0.0.0.0    motchillk.mov
-0.0.0.0    motchilltv.date
-0.0.0.0    motchillui.org
-0.0.0.0    onflix.me
-0.0.0.0    api.onflix.xyz
-0.0.0.0    img.ophim.live
-0.0.0.0    phim.nguonc.com
-0.0.0.0    phimimg.com
-0.0.0.0    phimhdc.com
-0.0.0.0    phimhdcs.com
-0.0.0.0    www.sieutamphim.pro
-0.0.0.0    haivan.lol
-0.0.0.0    api.haivan.lol
-0.0.0.0    truyenqq.com.vn
-0.0.0.0    truyenqqno.com
-0.0.0.0    truyenfull.vision
-0.0.0.0    static.truyenfull.vision
-0.0.0.0    truyenggvn.com
-0.0.0.0    manhwaclan.com
-0.0.0.0    otruyencdn.com
-0.0.0.0    hhkungfu.ee
-0.0.0.0    streamfree.vip
-0.0.0.0    fcloud.live
-0.0.0.0    i.mpcdn.top
-0.0.0.0    vod.vidsugar.top
-0.0.0.0    vip.opstream10.com
-0.0.0.0    vip.opstream16.com
-0.0.0.0    s6.kkphimplayer6.com
-0.0.0.0    stream03.bapluoc.tv
-0.0.0.0    intercambiosvirtuales.org
-
-# --- NHOM 3: MALWARE, PHISHING & TEN MIEN RAC (MALICIOUS/DGA) ---
-0.0.0.0    securelogger.top
-0.0.0.0    ruzone.securelogger.top
-0.0.0.0    indoss15.amass15.top
-0.0.0.0    phili18.amass15.top
-0.0.0.0    sings2.amass2.top
-0.0.0.0    sings3.amass2.top
-0.0.0.0    sg-sentry.changzhi.top
-0.0.0.0    sg-datahub.changzhi.top
-0.0.0.0    ohirsoungocougn.net
-0.0.0.0    econventa.com
-0.0.0.0    gekeebsirs.com
-0.0.0.0    relay.shhnowisnottheti.me
-0.0.0.0    relcomms-prod-dagnegedescbeefs.b02.azurefd.net
-0.0.0.0    hybrid-cloud-widgets-production.s3.us.cloud-object-storage.appdomain.cloud
+# --- NHÓM 2: MÃ ĐỘC, QUẢNG CÁO ĐỘC HẠI & DGA (MALWARE & ADWARE) ---
+0.0.0.0    aleutic.ordenerastergasman.cyou
+0.0.0.0    anyhowfleys.cyou
+0.0.0.0    asdxwqw.com
 0.0.0.0    avalanchetremorunfilled.com
+0.0.0.0    campfirecroutondecorator.com
+0.0.0.0    carkgwaiz.hytsocesk.com
 0.0.0.0    chagnougroalry.net
+0.0.0.0    continue2download.com
 0.0.0.0    cupbearergrowllurch.com
 0.0.0.0    driverhugoverblown.com
 0.0.0.0    en.bistredmccoy.cyou
-0.0.0.0    aleutic.ordenerastergasman.cyou
 0.0.0.0    gavesamoan.cyou
+0.0.0.0    gekeebsirs.com
+0.0.0.0    getpulse.click
+0.0.0.0    gvaq70s7he.ru
+0.0.0.0    indoss15.amass15.top
+0.0.0.0    jakpotgwab.geightdors.net
+0.0.0.0    justinepulvino.qpon
 0.0.0.0    lr.corrumpskeptic.cyou
-
-# --- NHOM 4: THEO DOI & PHAN TICH (TELEMETRY & TRACKING) ---
-0.0.0.0    adsdk.microsoft.com
-0.0.0.0    stats.securebrowser.com
-0.0.0.0    v7.stats.avast.com
-0.0.0.0    v7event.stats.avast.com
-0.0.0.0    analytics.ff.avast.com
-0.0.0.0    config.extension.grammarly.com
-0.0.0.0    extension.femetrics.grammarly.io
-0.0.0.0    f-log-extension.grammarly.io
-0.0.0.0    gnar.grammarly.com
-0.0.0.0    analytics.ahrefs.com
-0.0.0.0    global.ketchcdn.com
-0.0.0.0    thongke.vui.vn
-
-# --- NHOM 5: QUANG CAO TRONG GAME & SDK (GAME ADWARE) ---
-0.0.0.0    poki.com
-0.0.0.0    api.poki.com
-0.0.0.0    slither.com
-0.0.0.0    slither.io
-0.0.0.0    crazygames.com
-0.0.0.0    fafvertizing.crazygames.com
-0.0.0.0    mafvertizing.crazygames.com
-0.0.0.0    kick-it---fun-soccer-game.game-files.crazygames.com
-0.0.0.0    grand-shift-auto-4258-1.games.playgama.net
-0.0.0.0    playhop.com
-0.0.0.0    games.playhop.com
-0.0.0.0    sse.games.playhop.com
-0.0.0.0    18869.cache.armorgames.com
-0.0.0.0    html5.gamedistribution.com
-
-# --- NHOM 6: VPN & PROXY (BYPASS TOOLS) ---
-0.0.0.0    authentication.urban-vpn.com
-0.0.0.0    analytics-toolbar.urban-vpn.com
-0.0.0.0    authentication.falais.com
-0.0.0.0    analytics-toolbar.falais.com
-0.0.0.0    whitejacketsvpn.duckdns.org
-
-0.0.0.0    sin88.nl
-0.0.0.0    s3.sin88.nl
-0.0.0.0    sunwin.ec
-0.0.0.0    sunwin.live
-0.0.0.0    web.sunwin.ec
-0.0.0.0    club.f16809.com
-0.0.0.0    club.f1689.run
-0.0.0.0    ok.f168b3.ren
-0.0.0.0    games.prorichvip.com
-0.0.0.0    aj1559.online
-0.0.0.0    crn77.com
-
-0.0.0.0    clipsexmoi.net
-0.0.0.0    javhay.page
-0.0.0.0    link-vlxx.com
-0.0.0.0    sexdep.blog
-0.0.0.0    vi-hentai.org
-0.0.0.0    viet69.ke
-0.0.0.0    vn-vlxx88.com
-0.0.0.0    xnhau.hot
-0.0.0.0    xnhaustorage.com
-0.0.0.0    xamvn.com
-0.0.0.0    motchillkc.fm
-0.0.0.0    vip.opstream90.com
-0.0.0.0    phim1280.tv
-
+0.0.0.0    myniskgw.ryksockesg.net
+0.0.0.0    ohirsoungocougn.net
+0.0.0.0    pe.parcookgoofah.qpon
+0.0.0.0    phili18.amass15.top
+0.0.0.0    qsearch-a.akamaihd.net
+0.0.0.0    reyeshehadtwobri.com
+0.0.0.0    ruzone.securelogger.top
+0.0.0.0    securelogger.top
+0.0.0.0    sedatesturine.cfd
+0.0.0.0    sings2.amass2.top
+0.0.0.0    sings3.amass2.top
+0.0.0.0    smoggyfeed.com
+0.0.0.0    v6sgqpyi.whskxk1.com
+0.0.0.0    vic.hair
+0.0.0.0    www.linkonclick.com
 0.0.0.0    xjpakmdcfuqe.biz
 0.0.0.0    xjpakmdcfuqe.com
 0.0.0.0    xjpakmdcfuqe.in
 0.0.0.0    xjpakmdcfuqe.nl
-0.0.0.0    gvaq70s7he.ru
-0.0.0.0    anyhowfleys.cyou
-0.0.0.0    carkgwaiz.hytsocesk.com
-0.0.0.0    myniskgw.ryksockesg.net
-0.0.0.0    jakpotgwab.geightdors.net
-0.0.0.0    asdxwqw.com
-0.0.0.0    campfirecroutondecorator.com
+0.0.0.0    zealscringed.cyou
+
+# --- NHÓM 3: PHIM LẬU, TRUYỆN LẬU & NỘI DUNG 18+ (PIRACY & ADULT) ---
+0.0.0.0    4nimevietsub.id
+0.0.0.0    animevietsub.bz
+0.0.0.0    animevietsub.id
+0.0.0.0    api.haivan.lol
+0.0.0.0    api.onflix.xyz
+0.0.0.0    cdn.xemphim1.top
+0.0.0.0    clipsexmoi.net
+0.0.0.0    fcloud.live
+0.0.0.0    fplay.hdplaylink.com
+0.0.0.0    goctruyentranhvui23.com
+0.0.0.0    haivan.lol
+0.0.0.0    hh3d.online
+0.0.0.0    hhkungfu.ee
+0.0.0.0    i.mpcdn.top
+0.0.0.0    img.ophim.live
+0.0.0.0    intercambiosvirtuales.org
+0.0.0.0    javhay.page
+0.0.0.0    link-vlxx.com
+0.0.0.0    manhwaclan.com
+0.0.0.0    motchillk.mov
+0.0.0.0    motchillkc.fm
+0.0.0.0    motchilltv.date
+0.0.0.0    motchillui.org
+0.0.0.0    nettruyen8s.com
+0.0.0.0    onflix.me
+0.0.0.0    otruyencdn.com
+0.0.0.0    phim.nguonc.com
+0.0.0.0    phim1280.tv
+0.0.0.0    phimhdc.com
+0.0.0.0    phimhdcs.com
+0.0.0.0    phimimg.com
+0.0.0.0    rt.animevietsub.bz
+0.0.0.0    s6.kkphimplayer6.com
+0.0.0.0    sexdep.blog
+0.0.0.0    static.truyenfull.vision
+0.0.0.0    stream03.bapluoc.tv
+0.0.0.0    streamfree.vip
+0.0.0.0    truyenggvn.com
+0.0.0.0    truyenfull.vision
+0.0.0.0    truyenqq.com.vn
+0.0.0.0    truyenqqno.com
+0.0.0.0    vi-hentai.org
+0.0.0.0    viet69.ke
+0.0.0.0    vip.opstream10.com
+0.0.0.0    vip.opstream13.com
+0.0.0.0    vip.opstream16.com
+0.0.0.0    vip.opstream90.com
+0.0.0.0    vn-vlxx88.com
+0.0.0.0    vod.vidsugar.top
+0.0.0.0    www.sieutamphim.pro
+0.0.0.0    xamvn.com
+0.0.0.0    xnhau.hot
+0.0.0.0    xnhaustorage.com
+0.0.0.0    yanhh3d.net
+
+# --- NHÓM 4: THEO DÕI & PHÂN TÍCH (TELEMETRY & TRACKING) ---
+0.0.0.0    adsdk.microsoft.com
+0.0.0.0    analytics.ahrefs.com
+0.0.0.0    analytics.ff.avast.com
+0.0.0.0    avast.telemetry.eyeo.com
+0.0.0.0    avast_browser_tiles.tiles.ampfeed.com
+0.0.0.0    browser.events.data.msn.com
+0.0.0.0    clientservices.avastbrowser.com
+0.0.0.0    cloudtrck.com
+0.0.0.0    coccoc.telemetry.eyeo.com
+0.0.0.0    config.avast.securebrowser.com
+0.0.0.0    config.extension.grammarly.com
+0.0.0.0    ep1.adtrafficquality.google
+0.0.0.0    ep2.adtrafficquality.google
+0.0.0.0    extension.femetrics.grammarly.io
+0.0.0.0    f-log-extension.grammarly.io
+0.0.0.0    global.ketchcdn.com
+0.0.0.0    gnar.grammarly.com
+0.0.0.0    ip-info.ff.avast.com
+0.0.0.0    shepherd.ff.avast.com
+0.0.0.0    stats-collector.zdoiodhtqahjizqq.net
+0.0.0.0    stats.securebrowser.com
+0.0.0.0    thongke.vui.vn
+0.0.0.0    ubt.tracking.shopee.vn
+0.0.0.0    ubta.tracking.shopee.vn
+0.0.0.0    update.avastbrowser.com
+0.0.0.0    urlite.ff.avast.com
+0.0.0.0    v7.stats.avast.com
+0.0.0.0    v7event.stats.avast.com
+
+# --- NHÓM 5: QUẢNG CÁO GAME & TOOLS (GAME ADS / VPN BYPASS) ---
+0.0.0.0    18869.cache.armorgames.com
+0.0.0.0    analytics-toolbar.falais.com
+0.0.0.0    analytics-toolbar.urban-vpn.com
+0.0.0.0    api.poki.com
+0.0.0.0    authentication.falais.com
+0.0.0.0    authentication.urban-vpn.com
+0.0.0.0    crazygames.com
+0.0.0.0    fafvertizing.crazygames.com
+0.0.0.0    grand-shift-auto-4258-1.games.playgama.net
+0.0.0.0    html5.gamedistribution.com
+0.0.0.0    kick-it---fun-soccer-game.game-files.crazygames.com
+0.0.0.0    mafvertizing.crazygames.com
+0.0.0.0    playhop.com
+0.0.0.0    poki.com
+0.0.0.0    slither.com
+0.0.0.0    slither.io
+0.0.0.0    whitejacketsvpn.duckdns.org
+
+# --- NHÓM 6: TÊN MIỀN RÁC & KHÁC (SPAM / TRAFFIC EXCHANGE) ---
+0.0.0.0    econventa.com
+0.0.0.0    honeygain.com
+0.0.0.0    oiadnoigc.com
+0.0.0.0    otieu.com
+0.0.0.0    pawns.app
+0.0.0.0    sochim.xyz
+0.0.0.0    tukrd.com
+0.0.0.0    wuytl.com
 
 # [END OF FINAL COMBINED BLOCKLIST]
