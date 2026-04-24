@@ -2,6 +2,34 @@
 # Muc tieu: Chan quang cao doc hai, theo doi, lua dao va noi dung khong lanh manh.
 # Huong dan: Copy vao file hosts (C:\Windows\System32\drivers\etc\hosts)
 # [DANH SÁCH CHẶN TỪ LOG MỚI NHẤT - 23/04/2026]
+# [BLOCK LIST - MALICIOUS DOMAINS FROM LOGS]
+# Thời gian tạo: 2026-04-24
+# Định dạng: 0.0.0.0 [domain]
+
+# --- Adware & Tracking ---
+0.0.0.0 pg.phaseganging.shop
+0.0.0.0 track.linkics.com
+0.0.0.0 usrpubtrk.com
+0.0.0.0 a.channelexco.com
+0.0.0.0 e.channelexco.com
+0.0.0.0 wayground.com
+0.0.0.0 fnl.wayground.com
+
+# --- DGA & Malware C2 ---
+0.0.0.0 barolounasked.cyou
+0.0.0.0 relcomms-prod-dagnegedescbeefs.b02.azurefd.net
+0.0.0.0 malays12.hihihoho2.top
+
+# --- Gambling & Unsafe Content ---
+0.0.0.0 api.78winnf.love
+0.0.0.0 media.78win86.vip
+0.0.0.0 media.98jjun88
+0.0.0.0 api.haivan.lol
+0.0.0.0 haivan.lol
+
+# --- Piracy & Malicious Redirects ---
+0.0.0.0 motchillk.mov
+0.0.0.0 4nimevietsub.id
 
 # --- NHÓM CÁ CƯỢC & LỪA ĐẢO ---
 0.0.0.0    gemwin.vc
