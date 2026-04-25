@@ -6,6 +6,62 @@
 # Thời gian tạo: 2026-04-24
 # Định dạng: 0.0.0.0 [domain]
 
+# [BLOCK LIST - MALICIOUS & SUSPICIOUS DOMAINS]
+# Thời gian tạo: 2026-04-25
+# Cách dùng: Thêm vào file C:\Windows\System32\drivers\etc\hosts (Windows) 
+# hoặc /etc/hosts (Linux/Mac)
+
+# --- Quảng cáo & Theo dõi (Adware / Tracking) ---
+0.0.0.0 pixel.gliacloud.com
+0.0.0.0 c.4dex.tech
+0.0.0.0 mp.4dex.io
+0.0.0.0 s.imganalytics.com
+0.0.0.0 q7sm4r.katawee.net
+0.0.0.0 amspbs.com
+0.0.0.0 prebid.a-mo.net
+0.0.0.0 1x1.a-mo.net
+0.0.0.0 cdn4.bitluna.shop
+0.0.0.0 cdn4.neuronix.sbs
+0.0.0.0 cdn2.neuronix.sbs
+0.0.0.0 cdn4.tekora.fun
+0.0.0.0 cdn2.tekora.fun
+0.0.0.0 cdn2.tekora.space
+0.0.0.0 cdn3.tekora.space
+0.0.0.0 cdn3.turova.store
+0.0.0.0 cdn4.turova.store
+0.0.0.0 cdn2.syntraa.fun
+0.0.0.0 cdn2.mimoza.fun
+0.0.0.0 cdn2.codexa.fun
+0.0.0.0 cdn2.nuvix.sbs
+0.0.0.0 cdn2.lilune.site
+0.0.0.0 cdn4.lilune.site
+0.0.0.0 cdn4.lilune.shop
+0.0.0.0 cdn2.lilune.shop
+0.0.0.0 st.netcdn.one
+0.0.0.0 ntcdn242.netcdn.one
+0.0.0.0 i239.netcdn.one
+0.0.0.0 i2.netcdn.one
+
+# --- Tên miền khả nghi / Mã độc (DGA / Suspicious) ---
+0.0.0.0 jps14.hihihoho4.top
+0.0.0.0 crm.mitu.io.vn
+0.0.0.0 voqcdn.com
+
+# --- Cá cược & Nội dung không an toàn (Gambling / Adult) ---
+0.0.0.0 www.79king1.com
+0.0.0.0 sunwin.ml
+0.0.0.0 web.sunwin.ml
+0.0.0.0 vuauno.pro
+0.0.0.0 sv4.sexvietcc.com
+
+# --- Vi phạm bản quyền & Rủi ro cao (Piracy / High Risk) ---
+0.0.0.0 hoathinh3d.co
+0.0.0.0 nettruyen9s.com
+0.0.0.0 hamtruyen.vip
+0.0.0.0 vcomic.net
+0.0.0.0 chit.pintruyen.com
+
+
 # --- Adware & Tracking ---
 0.0.0.0 pg.phaseganging.shop
 0.0.0.0 track.linkics.com
